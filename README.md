@@ -4,8 +4,8 @@ An interactive Streamlit dashboard for analyzing hospital operations data — pa
 
 **[🔗 Live Demo](https://healthcare-dashboard-pkvcwuxzavzrcksvblwymn.streamlit.app/)**
 
-![Dashboard Preview](screenshot.png)
-*(add a screenshot of the dashboard here — drag an image file into this repo and update the filename above)*
+![Dashboard Preview](assets/screenshot.png)
+
 
 ---
 
