@@ -2,7 +2,7 @@
 
 An interactive Streamlit dashboard for analyzing hospital operations data — patient demographics, billing, admissions, medication trends, and test outcomes — with an AI-generated executive summary built in.
 
-**[🔗 Live Demo](#)** *(add your Streamlit Cloud link here after deploying)*
+**[🔗 Live Demo](https://healthcare-dashboard-pkvcwuxzavzrcksvblwymn.streamlit.app/)**
 
 ![Dashboard Preview](screenshot.png)
 *(add a screenshot of the dashboard here — drag an image file into this repo and update the filename above)*
